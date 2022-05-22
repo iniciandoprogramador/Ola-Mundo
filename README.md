@@ -1,3 +1,3 @@
 # Olá, Mundo!
  Primeiro projeto programação Git & GitHub 
-Estou iniciando mei git & GitHub.
+Estou iniciando meu git & GitHub.
